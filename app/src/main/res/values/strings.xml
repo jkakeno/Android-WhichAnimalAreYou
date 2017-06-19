@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Which Animal</string>
+    <string-array name="questions">
+        <item >You are open to new experiences even when they may be unpleasant.</item>
+        <item>Your code is neatly organized with comments and you make sure that other people can understand your work.</item>
+        <item>You like to be around people and enjoy being the center of attention.</item>
+        <item>When a coworker is having trouble at the printer, you pretend to mind your own business and walk away.</item>
+        <item>You are easily surprised.</item>
+    </string-array>
+    <integer-array name="dolphin_answer">
+        <item >5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="elephant_answer">
+        <item >2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="monkey_answer">
+        <item >4</item>
+        <item>1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="redpanda_answer">
+        <item >1</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="tiger_answer">
+        <item >3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>5</item>
+        <item>2</item>
+    </integer-array>
+</resources>
